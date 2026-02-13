@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Tysengarden Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tysengarden Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Feb 2026 19:10:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sat, 07 Feb 2026 19:10:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;
+&lt;p&gt;Let us try a first post&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="hello">Hello</h2>
+<p>Let us try a first post</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
