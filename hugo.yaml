@@ -1,4 +1,4 @@
-baseURL: 'https://blog.tysengarden.duckdns.org'
+baseURL: 'https://blog-tysengarden.duckdns.org/'
 languageCode: 'en-us'
 title: 'Tysengarden Blog'
 theme: 'PaperModX'

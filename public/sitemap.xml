@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/</loc>
     <lastmod>2026-02-17T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/posts/</loc>
     <lastmod>2026-02-17T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/redescubriendo-la-polvora/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/posts/redescubriendo-la-polvora/</loc>
     <lastmod>2026-02-17T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/redescubriendo-la-polvora/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/tags/redescubriendo-la-polvora/</loc>
     <lastmod>2026-02-17T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/tags/</loc>
     <lastmod>2026-02-17T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/tags/writing/</loc>
     <lastmod>2026-02-17T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/tags/blog/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/starting-a-blog/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/posts/starting-a-blog/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/startingablog/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/tags/startingablog/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chairs/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/tags/chairs/</loc>
     <lastmod>2026-02-16T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chair-2026-02-11/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/posts/chair-2026-02-11/</loc>
     <lastmod>2026-02-16T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/testing/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/tags/testing/</loc>
     <lastmod>2026-02-16T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/third-post/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/posts/third-post/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second-post/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/posts/second-post/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/posts/first-post/</loc>
     <lastmod>2026-02-11T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aboutme/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/aboutme/</loc>
     <lastmod>2026-02-07T19:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/example-section/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/example-section/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://blog.tysengarden.duckdns.org/search/</loc>
   </url>
 </urlset>
