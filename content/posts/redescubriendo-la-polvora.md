@@ -5,6 +5,7 @@ draft: false
 tags:
   - redescubriendo-la-polvora
   - writing
+  - evernote-extractos
 ---
 Si algo tenemos y es nuestro, son ideas.
 
