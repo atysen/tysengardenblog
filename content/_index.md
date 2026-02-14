@@ -1,6 +1,6 @@
 ---
 title: Hello
-header_image: header.png
+header_image: "header.png"
 ---
 # Tysengarden blog
 Hello.
