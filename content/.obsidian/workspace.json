@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutme/_index.md",
+                "file": "aboutme/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -187,7 +187,7 @@
   "lastOpenFiles": [
     "aboutme/20260214181717.png",
     "aboutme/header.png",
-    "aboutme/_index.md",
+    "aboutme/index.md",
     "_index.md",
     "posts/wanna-see/index.md",
     "README.md",
