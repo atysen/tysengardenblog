@@ -11,12 +11,14 @@
             "id": "68b22e4df9bc392a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "aboutme/header.png"
+                "file": "aboutme/_index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "header"
+              "icon": "lucide-file",
+              "title": "_index"
             }
           }
         ]
@@ -183,9 +185,9 @@
   },
   "active": "68b22e4df9bc392a",
   "lastOpenFiles": [
-    "aboutme/_index.md",
-    "aboutme/header.png",
     "aboutme/20260214181717.png",
+    "aboutme/header.png",
+    "aboutme/_index.md",
     "_index.md",
     "posts/wanna-see/index.md",
     "README.md",
