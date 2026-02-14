@@ -1,9 +1,11 @@
 ---
 title: Hello
 ---
-# Hello!
+# Tyblog
+Hello.
+
 This is Alex. 
 
-Here's where I write stuff. 
+Here's where I post stuff. 
 
 ---

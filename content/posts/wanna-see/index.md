@@ -4,8 +4,11 @@ date: 2026-02-14T14:48:54+01:00
 draft: false
 tags:
   - tysengardenposts
+  - "#thoughts"
 ---
-_October 13, 2025_ || #thoughts
+_October 13, 2025_
+
+Wanna see how hard I try?
 
 ![image](20260214144855.png)
 
