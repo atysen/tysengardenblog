@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutme/index.md",
+                "file": "_index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "68b22e4df9bc392a",
   "lastOpenFiles": [
-    "aboutme/20260214181717.png",
+    "header.png",
+    "_index.md",
     "aboutme/header.png",
     "aboutme/index.md",
-    "_index.md",
+    "aboutme/20260214181717.png",
     "posts/wanna-see/index.md",
     "README.md",
     "posts/silencio.md",
@@ -200,7 +201,6 @@
     "posts/wanna-see/20260214150648.png",
     "posts/wanna-see/20260214150109.png",
     "Pasted image 20260214145118.png",
-    "posts/wanna-see/20260214144855.png",
     "posts/wanna-see",
     "posts/redescubriendo-la-polvora.md",
     "posts/filling-the-blog.md",

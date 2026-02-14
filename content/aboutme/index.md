@@ -4,7 +4,7 @@ draft: false
 title: About
 cover: 
     image: header.png
-    alt: "About header"  
+    alt: "index header"  
     hidden: false
 ---
 
