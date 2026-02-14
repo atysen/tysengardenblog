@@ -11,10 +11,14 @@ pygmentsUseClasses: true
 
 disableKinds: "RSS" #So we don't see the "RSS" auto thing
 
+params:
+
+
 minify:
   disableXML: true
   minifyOutput: true
 
+params:
   author: Alejandro Jiménez
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
