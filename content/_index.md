@@ -1,9 +1,6 @@
 ---
 title: Hello
-cover: 
-    header_image: header.png
-    alt: "index header"  
-    hidden: false
+header_image: header.png
 ---
 # Tysengarden blog
 Hello.
