@@ -22,7 +22,8 @@ git push origin main
 ```
 
 **Tip:** create a script
-1. In Windows
+
+### Publish script - Windows
 Build
 ```bash
 echo cd tyblog > tdeploy.bat
@@ -36,6 +37,33 @@ Run
 tdeploy.bat #or win+R -> tdeploy
 ```
 
-1. In Linux
+or win + R => tdeploy
 
+### Publish script - Linux
+Build
+```bash
+echo '#!/bin/bash' > tdeploy.sh
+echo 'cd tyblog' >> tdeploy.sh
+echo 'git add .' >> tdeploy.sh
+echo 'git commit -m "update"' >> tdeploy.sh
+echo 'git push origin main' >> tdeploy.sh
+chmod +x tdeploy.sh
+```
 
+Run
+```bash
+./tdeploy.sh # or alt +F2 -> ./tdeploy.sh
+```
+
+#### Optional -> create the command
+
+Put your script in /usr/local/bin/
+```bash
+sudo mv tdeploy.sh /usr/local/bin/tdeploy 
+sudo chmod +x /usr/local/bin/tdeploy
+```
+
+Now you can run (alt+F2):
+```bash
+deployt
+```
