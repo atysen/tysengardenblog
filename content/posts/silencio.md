@@ -1,6 +1,6 @@
 ---
-title: "silencio"
-date: "2026-02-14T14:42:31+01:00"
+title: Silencio
+date: 2026-02-14T14:42:31+01:00
 draft: false
 tags:
   - blog
