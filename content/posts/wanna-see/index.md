@@ -5,14 +5,12 @@ draft: false
 tags:
   - tysengardenposts
 ---
-# **Wanna see how hard I try?**
-
 _October 13, 2025_ || #thoughts
 
-![[20260214144855.png]]
+![image](20260214144855.png)
 
-![[20260214150109.png]]  
-![Pasted image 20251013204941.png](https://tysengarden.duckdns.org/pasted-image-20251013204941.png)
+![image](20260214150109.png)
+![image](20260214150648.png)
 
 In order to be aligned with my projections and be consequent, understand life better, and get closer to these desires of mine, I built myself a knowledge system where I could trace my activities and knowledge and even examine and improve myself.
 
@@ -26,13 +24,13 @@ Under 5 categories previously designed for 5 vertex balance.
 
 Which then I paint my calendar with:
 
-![Pasted image 20251013205102.png](https://tysengarden.duckdns.org/pasted-image-20251013205102.png)
+![[20260214150811.png]]
 
 This is based on what I wrote some years ago about time balance. Part of a writing project called "Box Method" that I might add here some day.
 
 So basically this is the balance star:
 
-![Pasted image 20251013205717.png](https://tysengarden.duckdns.org/pasted-image-20251013205717.png)
+![[20260214150924.png]]
 
 There's 5 main areas.
 
@@ -48,11 +46,11 @@ Anything: Freedom! Just anything. Recreation, contemplation, experiencing life, 
 
 For me, I believe the least balanced star you can have looks like this (in hours)
 
-![Pasted image 20251013210206.png](https://tysengarden.duckdns.org/pasted-image-20251013210206.png)
+![[20260214150935.png]]
 
 However, a more realistic one:
 
-![Pasted image 20251013210325.png](https://tysengarden.duckdns.org/pasted-image-20251013210325.png)
+![[20260214150947.png]]
 
 For someone who doesn't possess passive incomes allowing him/her not to work.
 
@@ -75,11 +73,3 @@ It's beautiful poetry!
 So, trying to respect this, I paint my calendar with hours. And then, within each block, there are subdivisions of projects and priorities as well. Like things that need to be done periodically and things that need to be done for improvement.
 
 Has it worked? Well... Kind of. It actually helped some time, and at least the system, as a knowledge base, works very well.
-
-Backlinks
-
-[
-
-Digital Garden
-
-](https://tysengarden.duckdns.org/digital-garden/digital-garden.html)
