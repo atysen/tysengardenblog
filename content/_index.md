@@ -1,7 +1,7 @@
 ---
 title: Hello
 cover: 
-    image: header.png
+    header_image: header.png
     alt: "index header"  
     hidden: false
 ---
