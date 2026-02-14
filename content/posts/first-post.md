@@ -1,6 +1,6 @@
 ---
-title: 'First post'
-date: '2026-02-11T12:00:00+01:00'
+title: First post
+date: 2026-01-11T12:00:00+01:00
 draft: false
 ---
 

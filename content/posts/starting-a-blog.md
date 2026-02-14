@@ -1,6 +1,6 @@
 ---
 title: Starting a Blog
-date: 2026-02-17
+date: 2026-01-17
 draft: false
 tags:
   - writing

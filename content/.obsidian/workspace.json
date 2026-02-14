@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "posts/blog-deployed.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "blog-deployed"
             }
           }
         ]
@@ -185,6 +185,13 @@
   },
   "active": "68b22e4df9bc392a",
   "lastOpenFiles": [
+    "posts/third-post.md",
+    "posts/starting-a-blog.md",
+    "posts/second-post.md",
+    "posts/redescubriendo-la-polvora.md",
+    "posts/first-post.md",
+    "posts/blog-deployed.md",
+    "posts/chair-2026-02-11.md",
     "_index.md"
   ]
 }
