@@ -7,7 +7,16 @@ cover:
     alt: "About header"  
     hidden: false
 ---
+
+# About This Blog
 Some information about this blog
 
-I'll tell you more about me and this blog in this section (eventually)
+I'll say more about this blog in this section (eventually)
 
+# About Me
+I'll say more about me in this section (eventually)
+
+# About Tags in This Blog
+I'll explain the tags we're using
+
+- **evernote-extractos:** Project of recovering all the old interesting notes suitable for a blog post
