@@ -1,7 +1,7 @@
 ---
 title: Hello
 ---
-# Tyblog
+# Tysengarden blog
 Hello.
 
 This is Alex. 
