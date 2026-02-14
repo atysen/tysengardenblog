@@ -2,7 +2,8 @@
 date: 2026-02-07T19:10:00+01:00
 draft: false
 title: About
-cover: header.png
+cover: 
+	image: header.png
 ---
 Some information about this blog
 
