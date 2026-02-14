@@ -1,7 +1,9 @@
 ---
 title: Hello
 ---
-# Main page
-Here's the index thing
+# Hello!
+This is Alex. 
+
+Here's where I write stuff. 
 
 ---
