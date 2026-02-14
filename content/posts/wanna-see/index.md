@@ -4,7 +4,7 @@ date: 2026-02-14T14:48:54+01:00
 draft: false
 tags:
   - tysengardenposts
-  - "#thoughts"
+  - thoughts
 ---
 _October 13, 2025_
 
@@ -27,13 +27,13 @@ Under 5 categories previously designed for 5 vertex balance.
 
 Which then I paint my calendar with:
 
-![[20260214150811.png]]
+![image](20260214150811.png)
 
 This is based on what I wrote some years ago about time balance. Part of a writing project called "Box Method" that I might add here some day.
 
 So basically this is the balance star:
 
-![[20260214150924.png]]
+![image](20260214150924.png)
 
 There's 5 main areas.
 
@@ -49,7 +49,7 @@ Anything: Freedom! Just anything. Recreation, contemplation, experiencing life, 
 
 For me, I believe the least balanced star you can have looks like this (in hours)
 
-![[20260214150935.png]]
+![image](20260214150935.png)
 
 However, a more realistic one:
 
