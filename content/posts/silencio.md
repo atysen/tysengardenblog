@@ -9,8 +9,6 @@ _October 13, 2025_
 
 Otra noche sin poder dormir bien.
 
-Así es, ya está, ¿qué hacemos?
-
 Abrumado, por un lado, por mis propios pensamientos. Por otro lado, supongo, víctima del desorden circadiano o la falta de higiene del sueño, o el exceso de alcohol, o el estrés en general. De la manera que sea, no estoy pudiendo dormir.
 
 No obstante, quería yo decir:
