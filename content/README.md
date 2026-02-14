@@ -17,5 +17,6 @@ First you will need a local copy of this repository. Let's call it Tyblog
 cd tyblog
 git add .
 git commit -m "post-name"
+git push origin main
 ```
 
