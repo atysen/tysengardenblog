@@ -1,6 +1,6 @@
 ---
 title: Redescubriendo La Pólvora En Un Festival De Fuegos Artificiales
-date: 2026-02-14T13:00:00+01:00
+date: 2026-02-14T13:36:00+01:00
 draft: false
 tags:
   - redescubriendo-la-polvora
