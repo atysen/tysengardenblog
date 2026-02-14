@@ -4,13 +4,10 @@ draft: false
 title: About
 cover: 
     image: header.png
+    alt: "About header"  
+    hidden: false
 ---
 Some information about this blog
 
-# Alex
-I'll tell you more about me in this section (eventually)
+I'll tell you more about me and this blog in this section (eventually)
 
-# Tags
-I'll explain tags
-
-- **evernote-extractos:** Project of recovering all the old interesting notes suitable for a blog post
