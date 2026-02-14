@@ -41,20 +41,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/silencio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "silencio"
-            }
-          },
-          {
-            "id": "88ae14f99c972f53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "posts/wanna-see/index.md",
                 "mode": "source",
                 "source": false
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,19 +212,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "88ae14f99c972f53",
+  "active": "4fef310785b5efc9",
   "lastOpenFiles": [
-    "posts/wanna-see/20260214144855.png",
+    "posts/wanna-see/20260214150109.png",
     "posts/wanna-see/index.md",
     "Pasted image 20260214145118.png",
-    "posts/wanna-see",
     "posts/silencio.md",
+    "posts/wanna-see/20260214144855.png",
+    "aboutme/_index.md",
+    "posts/wanna-see",
     "posts/starting-a-blog.md",
     "posts/redescubriendo-la-polvora.md",
     "posts/filling-the-blog.md",
     "posts/evernote-extractos.md",
     "posts/charlas-a-la-gente.md",
-    "aboutme/_index.md",
     "README.md",
     "posts/blog-deployed.md",
     "obsidian-templates/new-post-header.md",
