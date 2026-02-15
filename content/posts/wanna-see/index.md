@@ -2,6 +2,7 @@
 title: Wanna See How Hard I Try?
 date: 2026-02-14T14:48:54+01:00
 draft: false
+header_image: header.png
 tags:
   - tysengardenposts
   - thoughts
@@ -10,7 +11,7 @@ _October 13, 2025_
 
 Wanna see how hard I try?
 
-![image](20260214144855.png)
+![image](posts/wanna-see/header.png)
 
 ![image](20260214150109.png)
 ![image](20260214150648.png)
