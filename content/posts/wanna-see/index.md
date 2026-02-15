@@ -2,7 +2,10 @@
 title: Wanna See How Hard I Try?
 date: 2026-02-14T14:48:54+01:00
 draft: false
-header_image: header.png
+cover: 
+    image: header.png
+    alt: "index header"  
+    hidden: false
 tags:
   - tysengardenposts
   - thoughts
