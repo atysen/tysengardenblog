@@ -15,7 +15,7 @@
               "state": {
                 "file": "posts/wanna-see/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
