@@ -1,6 +1,6 @@
 /* Make list card covers a fixed 16:9 box */
 .post-entry .entry-cover {
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 4 / 1;
   overflow: hidden;
 }
 
