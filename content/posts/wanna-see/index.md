@@ -6,6 +6,7 @@ cover:
     image: header.png
     alt: "index header"  
     hidden: false
+    relative: true
 tags:
   - tysengardenposts
   - thoughts
