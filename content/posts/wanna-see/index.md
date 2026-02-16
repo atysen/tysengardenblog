@@ -15,7 +15,7 @@ _October 13, 2025_
 
 Wanna see how hard I try?
 
-![image](posts/wanna-see/header.png)
+![image](img01.png)
 
 ![image](20260214150109.png)
 ![image](20260214150648.png)
