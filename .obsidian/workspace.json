@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/wanna-see/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ],
@@ -226,8 +226,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "327cee6cbd8a3ca6",
+  "active": "9f17e0bdc9f2b10b",
   "lastOpenFiles": [
+    "content/README.md",
+    "README.md",
+    "content/posts/wanna-see/index.md",
     "public/readme/index.html",
     "public/readme",
     "public/tags/tysengardenposts/page/1/index.html",
@@ -238,7 +241,6 @@
     "public/tags/thoughts/page/1/index.html",
     "public/tags/thoughts/page/1",
     "public/tags/thoughts/page",
-    "public/tags/thoughts/index.html",
     "public/posts/wanna-see/wanna-see-header.png",
     "public/posts/wanna-see/img01.png",
     "public/posts/wanna-see/20260214150947.png",
@@ -271,8 +273,6 @@
     "themes/PaperModX/exampleSite/content/docs/archives.md",
     "themes/PaperModX/exampleSite/content/docs/_index.zh.md",
     "themes/PaperModX/exampleSite/content/docs/_index.md",
-    "themes/PaperModX/exampleSite/content/newsletter/archives.md",
-    "themes/PaperModX/exampleSite/content/newsletter/_index.md",
-    "themes/PaperModX/exampleSite/content/search.zh.md"
+    "themes/PaperModX/exampleSite/content/newsletter/archives.md"
   ]
 }
