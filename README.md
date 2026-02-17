@@ -4,8 +4,21 @@ This is the repository for my Hugo blog. You can reuse it!
 - Your repo must be public
 - Setup Github Pages for your repo
 - Setup Hugo deployment workflow in github actions
+- 
 ## Adding a new post
-First you will need a local copy of this repository. Let's call it Tyblog
+First you will need a local copy of this repository. Let's call it Tyblog.
+
+```bash
+git clone https://github.com/atysen/tysengardenblog.git tyblog
+```
+
+or if you already have it locally
+
+```bash
+git pull --rebase origin main
+```
+
+Then
 
 1. Open tyblog as a vault in obsidian
 2. Ctrl + n -> new note
