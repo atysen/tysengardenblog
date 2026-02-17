@@ -55,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/redescubriendo-la-polvora.md",
+                "file": "content/posts/wanna-see/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "redescubriendo-la-polvora"
-            }
-          },
-          {
-            "id": "54de123518031674",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,31 +226,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "54de123518031674",
+  "active": "327cee6cbd8a3ca6",
   "lastOpenFiles": [
-    "README.md",
-    "content/posts/chair-2026-02-11.md",
-    "content/posts/starting-a-blog.md",
-    "content/posts/second-post.md",
+    "public/readme/index.html",
+    "public/readme",
+    "public/tags/tysengardenposts/page/1/index.html",
+    "public/tags/tysengardenposts/page/1",
+    "public/tags/tysengardenposts/page",
+    "public/tags/tysengardenposts/index.html",
+    "public/tags/tysengardenposts",
+    "public/tags/thoughts/page/1/index.html",
+    "public/tags/thoughts/page/1",
+    "public/tags/thoughts/page",
+    "public/tags/thoughts/index.html",
+    "public/posts/wanna-see/wanna-see-header.png",
+    "public/posts/wanna-see/img01.png",
+    "public/posts/wanna-see/20260214150947.png",
+    "public/posts/wanna-see/20260214150935.png",
+    "public/posts/wanna-see/20260214150924.png",
+    "public/posts/wanna-see/20260214150811.png",
+    "public/posts/wanna-see/20260214150648.png",
+    "public/posts/wanna-see/20260214150109.png",
+    "public/aboutme/header.png",
+    "public/header.png",
+    "obsidian-templates/new-post-header.md",
     "content/posts/redescubriendo-la-polvora.md",
-    "public/tags/redescubriendo-la-polvora/page/1/index.html",
-    "public/tags/redescubriendo-la-polvora/page/1",
-    "public/tags/redescubriendo-la-polvora/index.html",
-    "public/tags/redescubriendo-la-polvora/page",
-    "public/tags/redescubriendo-la-polvora",
-    "public/posts/redescubriendo-la-polvora/index.html",
-    "public/posts/redescubriendo-la-polvora",
-    "public/tags/blog/page/1/index.html",
-    "public/tags/blog/page/1",
-    "public/tags/blog/page",
-    "content/_index.md",
-    "content/posts/first-post.md",
-    "content/posts/third-post.md",
-    "content/aboutme/_index.md",
-    "content/example-section/_index.md",
-    "content/posts/subpage.md",
-    "content/search.md",
-    "index.md",
-    "Pasted image 20260209021524.png"
+    "themes/PaperModX/exampleSite/content/docs/features/index.md",
+    "themes/PaperModX/exampleSite/content/newsletter/001-hello-world/index.md",
+    "themes/PaperModX/exampleSite/content/posts/rich-content.md",
+    "themes/PaperModX/exampleSite/content/posts/placeholder-text.md",
+    "themes/PaperModX/exampleSite/content/posts/markdown-syntax.zh.md",
+    "themes/PaperModX/exampleSite/content/posts/markdown-syntax.md",
+    "themes/PaperModX/exampleSite/content/posts/_index.zh.md",
+    "themes/PaperModX/exampleSite/content/posts/_index.md",
+    "themes/PaperModX/exampleSite/content/docs/variables.md",
+    "themes/PaperModX/exampleSite/content/docs/papermodx-new-features.zh.md",
+    "themes/PaperModX/exampleSite/content/docs/papermodx-new-features.md",
+    "themes/PaperModX/exampleSite/content/docs/math-typesetting.md",
+    "themes/PaperModX/exampleSite/content/docs/installation.md",
+    "themes/PaperModX/exampleSite/content/docs/icons_preview.md",
+    "themes/PaperModX/exampleSite/content/docs/icons.md",
+    "themes/PaperModX/exampleSite/content/docs/faq.md",
+    "themes/PaperModX/exampleSite/content/docs/emoji-support.md",
+    "themes/PaperModX/exampleSite/content/docs/archives.md",
+    "themes/PaperModX/exampleSite/content/docs/_index.zh.md",
+    "themes/PaperModX/exampleSite/content/docs/_index.md",
+    "themes/PaperModX/exampleSite/content/newsletter/archives.md",
+    "themes/PaperModX/exampleSite/content/newsletter/_index.md",
+    "themes/PaperModX/exampleSite/content/search.zh.md"
   ]
 }
