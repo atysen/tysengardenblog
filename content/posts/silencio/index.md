@@ -2,10 +2,15 @@
 title: Silencio
 date: 2026-02-14T14:42:31+01:00
 draft: false
+cover: 
+    image: silencio-header3.png
+    alt: "header"  
+    hidden: false
 tags:
   - blog
 ---
 _October 13, 2025_
+
 
 Otra noche sin poder dormir bien.
 
